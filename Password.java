@@ -24,7 +24,7 @@ class Password
 			while (start<=3);
 			if (start>=3)
 			{
-		        System.out.println("Attempt over");
+		        System.out.println("Attempt over Thank you");
 	}
 }
 }
